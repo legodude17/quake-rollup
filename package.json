@@ -1,6 +1,6 @@
 {
   "name": "quake-rollup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rollup extension for quake",
   "main": "index.js",
   "scripts": {
