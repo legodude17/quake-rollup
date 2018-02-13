@@ -1,0 +1,31 @@
+{
+  "name": "quake-rollup",
+  "version": "0.0.0",
+  "description": "Rollup extension for quake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legodude17/quake-rollup.git"
+  },
+  "keywords": [
+    "quake",
+    "rollup",
+    "module",
+    "task"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legodude17/quake-rollup/issues"
+  },
+  "homepage": "https://github.com/legodude17/quake-rollup#readme",
+  "dependencies": {
+    "rollup": "^0.55.5"
+  },
+  "devDependencies": {
+    "quake-task": "file:../quake"
+  }
+}
